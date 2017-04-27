@@ -1,0 +1,8 @@
+c:\Users\eungs\Documents\MyHome\bin\Debug\netcoreapp1.1\MyHome.deps.json
+c:\Users\eungs\Documents\MyHome\bin\Debug\netcoreapp1.1\MyHome.runtimeconfig.json
+c:\Users\eungs\Documents\MyHome\bin\Debug\netcoreapp1.1\MyHome.runtimeconfig.dev.json
+c:\Users\eungs\Documents\MyHome\bin\Debug\netcoreapp1.1\MyHome.dll
+c:\Users\eungs\Documents\MyHome\bin\Debug\netcoreapp1.1\MyHome.pdb
+c:\Users\eungs\Documents\MyHome\obj\Debug\netcoreapp1.1\MyHome.AssemblyInfo.cs
+c:\Users\eungs\Documents\MyHome\obj\Debug\netcoreapp1.1\MyHome.dll
+c:\Users\eungs\Documents\MyHome\obj\Debug\netcoreapp1.1\MyHome.pdb
